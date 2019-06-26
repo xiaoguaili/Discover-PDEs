@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Overview}{3}{section.1}
+\contentsline {section}{\numberline {2}Zero Range Process (folder 1\_ZeroRangeProcess)}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Overview of the code: Main file and functions}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Parameters and options of the code}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Running the code}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Output of the code and postprocessing}{5}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Parameters used to generate the figures in the paper}{5}{subsection.2.5}
+\contentsline {section}{\numberline {3}Postprocessing (folder 2\_Postprocessing)}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Code and test data}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Output of the code and further steps}{6}{subsection.3.2}
+\contentsline {section}{\numberline {4}Independent fit of the components (folder 3a\_IndependentFit)}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Real dataset from the zero range process after postprocessing}{6}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Code overview}{6}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Options of the code}{7}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Output of the code}{7}{subsection.4.4}
+\contentsline {section}{\numberline {5}Fit of components with mass conservation constraint (folder 3b\_FitWithConstraint)}{7}{section.5}
+\contentsline {subsection}{\numberline {5.1}Real dataset from zero range process after postprocessing}{7}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Code and parameters}{8}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Output of the code}{8}{subsection.5.3}
+\contentsline {section}{\numberline {6}Macroscopic simulations (folder 4\_MacroSimulations)}{8}{section.6}
+\contentsline {subsection}{\numberline {6.1}Code overview}{8}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Options of the code}{8}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Parameters of the code}{9}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Output of the code}{9}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Options and parameters used to generate the figures in the paper}{9}{subsection.6.5}

@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Overview}{}% 1
+\BOOKMARK [1][-]{section.2}{Zero Range Process \(folder 1\137ZeroRangeProcess\)}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Overview of the code: Main file and functions}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Parameters and options of the code}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Running the code}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Output of the code and postprocessing}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Parameters used to generate the figures in the paper}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Postprocessing \(folder 2\137Postprocessing\)}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Code and test data}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Output of the code and further steps}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Independent fit of the components \(folder 3a\137IndependentFit\)}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Real dataset from the zero range process after postprocessing}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Code overview}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.3}{Options of the code}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.4}{Output of the code}{section.4}% 15
+\BOOKMARK [1][-]{section.5}{Fit of components with mass conservation constraint \(folder 3b\137FitWithConstraint\)}{}% 16
+\BOOKMARK [2][-]{subsection.5.1}{Real dataset from zero range process after postprocessing}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.2}{Code and parameters}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.3}{Output of the code}{section.5}% 19
+\BOOKMARK [1][-]{section.6}{Macroscopic simulations \(folder 4\137MacroSimulations\)}{}% 20
+\BOOKMARK [2][-]{subsection.6.1}{Code overview}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.2}{Options of the code}{section.6}% 22
+\BOOKMARK [2][-]{subsection.6.3}{Parameters of the code}{section.6}% 23
+\BOOKMARK [2][-]{subsection.6.4}{Output of the code}{section.6}% 24
+\BOOKMARK [2][-]{subsection.6.5}{Options and parameters used to generate the figures in the paper}{section.6}% 25
